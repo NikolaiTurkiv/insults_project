@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/showInsults"
+        android:icon="@drawable/show_insult"
+        android:title="@string/app_bar_menu_show_insults"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/addYourInsult"
+        android:icon="@drawable/add_your_insult"
+        app:showAsAction="ifRoom"
+        android:title="@string/app_bar_menu_add_your_own_insult" />
+</menu>

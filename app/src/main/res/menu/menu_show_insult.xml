@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/addYourInsultForShowInsult"
+        android:icon="@drawable/add_your_insult"
+        app:showAsAction="ifRoom"
+        android:title="@string/showInsult_show_your_insult" />
+</menu>

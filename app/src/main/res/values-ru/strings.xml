@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Оскорбления</string>
+    <string name="activity_main_insult_number">Номер оскорбления:</string>
+    <string name="activity_main_text_will_be_here">Текст появится здесь</string>
+    <string name="activity_main_english_lang">English</string>
+    <string name="activity_main_russian_lang">Русский</string>
+    <string name="activity_main_button_press_it">НАЖИМАЙ</string>
+    <string name="activity_main_how_many_people_saw_it">Знаешь сколько людей видели это ?!</string>
+    <string name="activity_main_fab">FAB</string>
+    <string name="activity_main_press_to_the_blue_button">жмякай на синюю кнопку</string>
+    <string name="dialog_add_label">Сохранение ваше оскорбление</string>
+    <string name="dialog_enter_text_hint">Введите текст своего оскорбления</string>
+    <string name="send_insult_text_label">Текст для отправки на сервер</string>
+    <string name="bot_nav_send_insult">Отправить</string>
+    <string name="bot_nav_add_insult">Добавить</string>
+    <string name="bot_nav_show_insult">Показать всё</string>
+    <string name="app_bar_menu_show_insults">Показать всё</string>
+    <string name="app_bar_menu_add_your_own_insult">Ваше оскорбление</string>
+    <string name="showInsult_show_your_insult">Показать всё</string>
+    <string name="cancle">Отмена</string>
+    <string name="send">Отправить</string>
+    <string name="saw_it">"This insult saw: ${count} man"</string>
+    <string name="num_insult">Номер оскорбления:${number}</string>
+    <string name="snack_before">Оскорбление было добавленно ранее</string>
+    <string name="snack_add">Оскорбление было добавленно в базу данных</string>
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/newTitle"
+        android:layout_gravity="center"
+        android:layout_marginBottom="15dp"
+        android:lineSpacingExtra="10sp"
+        android:text="@string/send_insult_text_label"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="normal"
+        style="@style/tv_with_blue_text"/>
+
+    <View
+        style="@style/view_style"
+        android:background="@color/app_background" />
+
+    <EditText
+        android:id="@+id/editText_to_send_insult"
+        android:hint="@string/dialog_enter_text_hint"
+        android:textColor="@color/app_background"
+        android:textColorHint="@color/color_hint"
+        style="@style/dialog_edit_text" />
+
+</LinearLayout>

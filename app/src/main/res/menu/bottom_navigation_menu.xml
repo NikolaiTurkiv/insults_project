@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/itemSendInsult"
+        android:icon="@drawable/ic_send_insult"
+        android:title="@string/bot_nav_send_insult"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/itemAddInsultInBottomMenu"
+        android:icon="@drawable/ic_add_insult_in_bottom_nmenu"
+        android:title="@string/bot_nav_add_insult"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/itemShowInsult"
+        android:icon="@drawable/show_insult"
+        android:title="@string/bot_nav_show_insult"
+        app:showAsAction="ifRoom" />
+</menu>

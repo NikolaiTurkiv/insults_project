@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Insult</string>
+    <string name="activity_main_insult_number">Insult number:</string>
+    <string name="activity_main_text_will_be_here">TEXT WILL BE HERE</string>
+    <string name="activity_main_english_lang">English</string>
+    <string name="activity_main_russian_lang">Русский</string>
+    <string name="activity_main_button_press_it">PRESS IT</string>
+    <string name="activity_main_how_many_people_saw_it">Do you know how many people saw it ?!</string>
+    <string name="activity_main_fab">FAB</string>
+    <string name="activity_main_press_to_the_blue_button">press to the blue button</string>
+    <string name="dialog_add_label">Enter the text of your insult</string>
+    <string name="dialog_enter_text_hint">Enter text your insult</string>
+    <string name="send_insult_text_label">Insult text to send to the server</string>
+    <string name="bot_nav_send_insult">Send insult</string>
+    <string name="bot_nav_add_insult">Add insult</string>
+    <string name="bot_nav_show_insult">Show insult</string>
+    <string name="app_bar_menu_show_insults">Show insults</string>
+    <string name="app_bar_menu_add_your_own_insult">Add your own insult</string>
+    <string name="showInsult_show_your_insult">Show your Insult</string>
+    <string name="cancle">Cancel</string>
+    <string name="send">Send</string>
+    <string name="saw_it">This insult saw: ${count} man</string>
+    <string name="num_insult">Insult number:${number}</string>
+    <string name="snack_before">Insult was added before</string>
+    <string name="snack_add">Insult added in database</string>
+
+</resources>
